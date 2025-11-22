@@ -1,0 +1,7 @@
+{
+  "name": "worker-name",
+  "compatibility_date": "2024-11-22", // put today or earlier
+  "assets": {
+    "directory": "./dist"
+  }
+}
